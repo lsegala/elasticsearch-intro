@@ -586,3 +586,7 @@ GET famous-librarians/_search
   }
 }
 ```
+
+# 12. Twitter
+
+https://github.com/elastic/examples/tree/master/Common%20Data%20Formats/twitter
